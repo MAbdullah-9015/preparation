@@ -1,0 +1,262 @@
+[
+  {
+    "question": "What was the primary objective of the Pakistan Movement?",
+    "options": [
+      "To establish a federal government in India",
+      "To secure a separate homeland for Muslims",
+      "To promote economic growth in British India",
+      "To gain independence from the British Empire"
+    ],
+    "correctOption": "To secure a separate homeland for Muslims"
+  },
+  {
+    "question": "Which historical event led to the creation of the All India Muslim League?",
+    "options": [
+      "The partition of Bengal in 1905",
+      "The Khilafat Movement",
+      "The Simla Deputation of 1906",
+      "The Lahore Resolution of 1940"
+    ],
+    "correctOption": "The Simla Deputation of 1906"
+  },
+  {
+    "question": "Who was the founder of the All India Muslim League?",
+    "options": [
+      "Mohammad Ali Jinnah",
+      "Sir Syed Ahmed Khan",
+      "Aga Khan",
+      "Allama Iqbal"
+    ],
+    "correctOption": "Aga Khan"
+  },
+  {
+    "question": "Which of the following was not a demand of the Lahore Resolution?",
+    "options": [
+      "Complete independence for Indian Muslims",
+      "Creation of separate states for Muslims",
+      "Equal rights for all citizens",
+      "Federal structure of government in India"
+    ],
+    "correctOption": "Complete independence for Indian Muslims"
+  },
+  {
+    "question": "The 'Two-Nation Theory' was primarily advocated by which leader?",
+    "options": [
+      "Allama Iqbal",
+      "Liaquat Ali Khan",
+      "Zafar Ali Khan",
+      "Mohammad Ali Jinnah"
+    ],
+    "correctOption": "Allama Iqbal"
+  },
+  {
+    "question": "What was the main theme of Allama Iqbal's 'Lab Pe Aati Hai Dua Ban Ke Tamanna Meri'?",
+    "options": [
+      "Patriotism and nationalism",
+      "Desire for personal success",
+      "Spiritual and religious upliftment",
+      "Social reform and justice"
+    ],
+    "correctOption": "Spiritual and religious upliftment"
+  },
+  {
+    "question": "Which of the following was a key figure in the formation of Pakistan’s first Constitution?",
+    "options": [
+      "Quaid-e-Azam Mohammad Ali Jinnah",
+      "Chaudhry Muhammad Ali",
+      "Liaquat Ali Khan",
+      "Fatima Jinnah"
+    ],
+    "correctOption": "Chaudhry Muhammad Ali"
+  },
+  {
+    "question": "When did Pakistan officially become a republic?",
+    "options": [
+      "15 August 1947",
+      "14 August 1956",
+      "23 March 1956",
+      "6 September 1965"
+    ],
+    "correctOption": "23 March 1956"
+  },
+  {
+    "question": "Who was the first Prime Minister of Pakistan?",
+    "options": [
+      "Liaquat Ali Khan",
+      "Khawaja Nazimuddin",
+      "Ghulam Muhammad",
+      "Huseyn Shaheed Suhrawardy"
+    ],
+    "correctOption": "Liaquat Ali Khan"
+  },
+  {
+    "question": "Which city served as the capital of Pakistan before Islamabad?",
+    "options": [
+      "Karachi",
+      "Lahore",
+      "Rawalpindi",
+      "Quetta"
+    ],
+    "correctOption": "Karachi"
+  },
+  {
+    "question": "Who was the first Governor-General of Pakistan?",
+    "options": [
+      "Mohammad Ali Jinnah",
+      "Liaquat Ali Khan",
+      "Khawaja Nazimuddin",
+      "Rafiuddin Ahmed"
+    ],
+    "correctOption": "Mohammad Ali Jinnah"
+  },
+  {
+    "question": "Which was the first Pakistani province to grant women the right to vote?",
+    "options": [
+      "Punjab",
+      "Sindh",
+      "Khyber Pakhtunkhwa",
+      "Balochistan"
+    ],
+    "correctOption": "Sindh"
+  },
+  {
+    "question": "What was the main purpose of the Direct Action Day observed in 1946?",
+    "options": [
+      "To celebrate the independence of India",
+      "To demand a separate Muslim state",
+      "To support the Quit India Movement",
+      "To promote Hindu-Muslim unity"
+    ],
+    "correctOption": "To demand a separate Muslim state"
+  },
+  {
+    "question": "The Indus Valley Civilization primarily flourished in which region of present-day Pakistan?",
+    "options": [
+      "Sindh",
+      "Punjab",
+      "Khyber Pakhtunkhwa",
+      "Balochistan"
+    ],
+    "correctOption": "Sindh"
+  },
+  {
+    "question": "Which of the following was a major leader of the Khilafat Movement?",
+    "options": [
+      "Mohammad Ali Jinnah",
+      "Maulana Abdul Kalam Azad",
+      "Maulana Muhammad Ali",
+      "Syed Ahmad Khan"
+    ],
+    "correctOption": "Maulana Muhammad Ali"
+  },
+  {
+    "question": "What was the main focus of the One Unit Scheme introduced in 1955?",
+    "options": [
+      "To merge all provinces into one unit",
+      "To establish a separate state for Balochistan",
+      "To enhance regional autonomy",
+      "To promote economic development in East Pakistan"
+    ],
+    "correctOption": "To merge all provinces into one unit"
+  },
+  {
+    "question": "Who was the Chief Martial Law Administrator during the 1958 coup d'état?",
+    "options": [
+      "Ayub Khan",
+      "Iskander Mirza",
+      "Liaquat Ali Khan",
+      "Huseyn Shaheed Suhrawardy"
+    ],
+    "correctOption": "Iskander Mirza"
+  },
+  {
+    "question": "Which treaty was signed to settle the disputes between India and Pakistan in 1965?",
+    "options": [
+      "Treaty of Tashkent",
+      "Simla Agreement",
+      "Lahore Declaration",
+      "Shimla Agreement"
+    ],
+    "correctOption": "Treaty of Tashkent"
+  },
+  {
+    "question": "What was the major outcome of the 1971 East Pakistan crisis?",
+    "options": [
+      "The creation of Bangladesh",
+      "The abolition of martial law",
+      "The establishment of a new constitution",
+      "The reunification of India and Pakistan"
+    ],
+    "correctOption": "The creation of Bangladesh"
+  },
+  {
+    "question": "Which Pakistani leader was known for his policy of 'Islamic Socialism'?",
+    "options": [
+      "Zulfikar Ali Bhutto",
+      "General Ayub Khan",
+      "Benazir Bhutto",
+      "Pervez Musharraf"
+    ],
+    "correctOption": "Zulfikar Ali Bhutto"
+  },
+  {
+    "question": "Which document laid down the legal foundation for the Pakistan Muslim League's demand for a separate state?",
+    "options": [
+      "The Lahore Resolution",
+      "The Simla Deputation",
+      "The Karachi Resolution",
+      "The Delhi Proclamation"
+    ],
+    "correctOption": "The Lahore Resolution"
+  },
+  {
+    "question": "Who was the President of Pakistan at the time of the 1971 Bangladesh Liberation War?",
+    "options": [
+      "Yahya Khan",
+      "Zulfikar Ali Bhutto",
+      "Ayub Khan",
+      "Iskander Mirza"
+    ],
+    "correctOption": "Yahya Khan"
+  },
+  {
+    "question": "Which Pakistani city is known as the 'City of Gardens'?",
+    "options": [
+      "Lahore",
+      "Karachi",
+      "Islamabad",
+      "Peshawar"
+    ],
+    "correctOption": "Lahore"
+  },
+  {
+    "question": "What was the primary reason behind the creation of the Federal Shariat Court of Pakistan in 1980?",
+    "options": [
+      "To oversee the implementation of Sharia law",
+      "To promote educational reforms",
+      "To mediate between provincial and federal governments",
+      "To resolve international disputes"
+    ],
+    "correctOption": "To oversee the implementation of Sharia law"
+  },
+  {
+    "question": "Which landmark case in 1999 was instrumental in the dissolution of the National Assembly of Pakistan?",
+    "options": [
+      "The Zafar Ali Shah Case",
+      "The Asma Jahangir Case",
+      "The General Musharraf Case",
+      "The S. M. Zafar Case"
+    ],
+    "correctOption": "The Zafar Ali Shah Case"
+  },
+  {
+    "question": "Which Pakistani leader was instrumental in the establishment of the Pakistan Atomic Energy Commission in 1956?",
+    "options": [
+      "Abdul Qadeer Khan",
+      "Huseyn Shaheed Suhrawardy",
+      "Chaudhry Muhammad Ali",
+      "Feroz Khan Noon"
+    ],
+    "correctOption": "Huseyn Shaheed Suhrawardy"
+  }
+]
