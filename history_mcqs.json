@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who was the first Prime Minister of Pakistan?",
+    "options": [
+      "Liaquat Ali Khan",
+      "Khawaja Nazimuddin",
+      "Ghulam Muhammad",
+      "Huseyn Shaheed Suhrawardy"
+    ],
+    "correctOption": "Liaquat Ali Khan"
+  },
+  {
+    "question": "Who succeeded Liaquat Ali Khan as the Prime Minister of Pakistan?",
+    "options": [
+      "Huseyn Shaheed Suhrawardy",
+      "Ghulam Muhammad",
+      "Khawaja Nazimuddin",
+      "Chaudhry Mohammad Ali"
+    ],
+    "correctOption": "Khawaja Nazimuddin"
+  },
+  {
+    "question": "Who was the Prime Minister of Pakistan in 1956?",
+    "options": [
+      "Mohammad Ali Bogra",
+      "Chaudhry Mohammad Ali",
+      "Ibrahim Ismail Chundrigar",
+      "Huseyn Shaheed Suhrawardy"
+    ],
+    "correctOption": "Chaudhry Mohammad Ali"
+  }
+]
